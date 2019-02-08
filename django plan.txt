@@ -1,0 +1,44 @@
+Basic Overview
+	
+	1. Django installation<<<<<DONE
+
+	2. python installation<<<<<DONE
+
+	3. set up database<<<<<DONE
+
+	4. writing django app part 1<<<<<DONE
+		* creating a project
+		* Explanation of files, once project is created(eg: settings.py)
+		* To start development server
+		* creating polls app
+
+	5. writing django app part 2<<<<<DONE
+		* Database setup(default-----sqlite3)
+		* creating models, activating models
+		* Using python shell creating questions, and choices for poll app
+		* Creating admin user, on launching server will see admin page
+
+	6. writing django app part 3<<<<<DONE
+		* Overview of views
+		* render()
+		* Raising 404 error
+		* Namespacing URL names
+
+	7. writing django app part 4<<<<<DONE
+		* Write simple form
+		* Use generic views
+
+	8. writing django app part 5<<<<<DONE
+		* Testing
+		* writing test case
+		* create bug, fix it
+		* Test a view
+
+	9. writing django app part 6<<<<<DONE
+		* customize app look
+		* adding background image
+
+	10.writing django app part 7
+		* customize admin page<<<<<DONE 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
